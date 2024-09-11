@@ -5,3 +5,5 @@ En este repositorio haremos una serie de pruebas iniciales para trabajar con Git
 # 1- Dominar las heramientas informaticas enseñadas 
 # 2- Mejorar mi pensamiento logico
 # 3- Conseguir trabajo en la industria
+
+![Git Logo](./gitlogo.webp)!

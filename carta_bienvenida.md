@@ -7,3 +7,5 @@ Archivo modificado por: Nacho
 =======
 *añadimos esta linea para generar conflicto
 >>>>>>> refs/remotes/origin/main
+---
+texto añadido de rama funcionalidad
